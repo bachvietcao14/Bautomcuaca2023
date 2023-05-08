@@ -1,4 +1,4 @@
-                                                                   # Bautomcuaca2023
+   # Bautomcuaca2023
                                                                    
 
 # 1.Giới thiệu về game
