@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1682652801 source:c:\users\admin\game\test1\baseobj.cpp
+	"CommonFuntion.h"
+	"BaseObj.h"
+
+1683426218 c:\users\admin\game\test1\commonfuntion.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+
+1682651737 c:\users\admin\game\test1\baseobj.h
+	"CommonFuntion.h"
+
+1683425854 source:c:\users\admin\game\test1\datcuoc.cpp
+
+1683426516 source:c:\users\admin\game\test1\funtionsdl.cpp
+	"CommonFuntion.h"
+
+1683426578 source:c:\users\admin\game\test1\game1.cpp
+	"CommonFuntion.h"
+
+1683542439 source:c:\users\admin\game\test1\main.cpp
+	"CommonFuntion.h"
+	"BaseObj.h"
+	"Text.h"
+	"sound.h"
+	"header.h"
+
+1683295139 c:\users\admin\game\test1\text.h
+	"CommonFuntion.h"
+
+1683541204 c:\users\admin\game\test1\sound.h
+	"BaseObj.h"
+	"CommonFuntion.h"
+
+1683542181 c:\users\admin\game\test1\header.h
+	"CommonFuntion.h"
+	"BaseObj.h"
+	"Text.h"
+
+1683541535 source:c:\users\admin\game\test1\sound.cpp
+	"sound.h"
+	"CommonFuntion.h"
+
+1683295164 source:c:\users\admin\game\test1\text.cpp
+	"Text.h"
+
+1682652801 source:c:\users\admin\game\baucua_vietbach\baseobj.cpp
+	"CommonFuntion.h"
+	"BaseObj.h"
+
+1683426218 c:\users\admin\game\baucua_vietbach\commonfuntion.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+
+1682651737 c:\users\admin\game\baucua_vietbach\baseobj.h
+	"CommonFuntion.h"
+
+1683425854 source:c:\users\admin\game\baucua_vietbach\datcuoc.cpp
+
+1683426516 source:c:\users\admin\game\baucua_vietbach\funtionsdl.cpp
+	"CommonFuntion.h"
+
+1683426578 source:c:\users\admin\game\baucua_vietbach\game1.cpp
+	"CommonFuntion.h"
+
+1683553332 source:c:\users\admin\game\baucua_vietbach\main.cpp
+	"CommonFuntion.h"
+	"BaseObj.h"
+	"Text.h"
+	"sound.h"
+	"header.h"
+
+1683295139 c:\users\admin\game\baucua_vietbach\text.h
+	"CommonFuntion.h"
+
+1683543728 c:\users\admin\game\baucua_vietbach\sound.h
+	"BaseObj.h"
+	"CommonFuntion.h"
+
+1683553332 c:\users\admin\game\baucua_vietbach\header.h
+	"CommonFuntion.h"
+	"BaseObj.h"
+	"Text.h"
+
+1683553046 source:c:\users\admin\game\baucua_vietbach\sound.cpp
+	"sound.h"
+	"CommonFuntion.h"
+
+1683295164 source:c:\users\admin\game\baucua_vietbach\text.cpp
+	"Text.h"
+
