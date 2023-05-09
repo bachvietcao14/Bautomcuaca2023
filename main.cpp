@@ -48,7 +48,7 @@ int main(int argc, char* argv[])
     //text
     dat.SetText("Moi ban dat cuoc");
     //huong dan
-    huongdan1.LoadImg("photos/huongdan1.png",renderer);
+    huongdan1.LoadImg("photos/huondan.png",renderer);
     huongdan1.SetEntireRect(0,0,1600,900);
     //mau sac
     diem.SetColor(Text :: WHITE);
